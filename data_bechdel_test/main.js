@@ -1,4 +1,4 @@
-const apiKey = "a216da29"; // Remplacez YOUR_API_KEY par votre clé d'API OMDB
+const apiKey = ""; // Remplacez YOUR_API_KEY par votre clé d'API OMDB
 
 // Fonction pour récupérer les informations d'un film par son titre
 function getMovieInfoByTitle(title) {
