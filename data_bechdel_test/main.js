@@ -28,7 +28,7 @@ function getMovieInfoByTitle(title) {
 }
 
 function getBechdelTestByImdbId(imdbID) {
-  const url = `http://bechdeltest.com/api/v1/getMovieByImdbId?imdbid=${imdbID}`;
+  const url = `http://localhost:8080/api/${imdbID.replace("tt", "")}`;
 
   // Effectuer la requête GET
   fetch(url)
