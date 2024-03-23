@@ -12,6 +12,9 @@ ou
 pip3 install virtualenv
 ```
 
+ou
+https://www.google.com/search?q=install+virtualenv+mac&rlz=1C5CHFA_enUS825US825&oq=install+virtualenv+ma&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHqgCALACAA&sourceid=chrome&ie=UTF-8
+
 2. Create a virtual environment
 
 ```bash
